@@ -12,4 +12,4 @@ Below picture illustrates how Keras API works.
 ![Keras Framework](images/keras_wf.png)
 
 - [Main Page](README.md)
-- [The Coding Approach](code.py)
+- [The Iris Dataset](iris-dataset.md)
