@@ -8,5 +8,5 @@ There is a lot of stuff available on Deep Learning on the web if you want to div
 
 
 - [Main Page](perceptron.md)
-- [The Perceptron](keras.md)
+- [The Perceptron](perceptron.md)
 
