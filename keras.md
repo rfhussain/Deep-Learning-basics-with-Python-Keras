@@ -10,3 +10,6 @@ It can run on top of TensofFlow, Microsoft Cognitive Toolkit, Theano and PlaidML
 Below picture illustrates how Keras API works. 
 
 ![Keras Framework](images/keras_wf.png)
+
+- [Main Page](README.md)
+- [The Coding Approach](code.py)
