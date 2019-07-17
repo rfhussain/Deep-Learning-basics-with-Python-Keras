@@ -1,6 +1,6 @@
 # Deep Learing with Python and Keras
 
-This article will provide you basick knowledge and introduction, along with a coding example of Deep Learning with Python and Keras.
+This article will provide you basic knowledge and introduction, along with a coding example of Deep Learning using Python and Keras.
 
 ### Table of Contents
 1. [Machine Learning](machine-learning.md)
