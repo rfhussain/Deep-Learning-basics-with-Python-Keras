@@ -66,9 +66,9 @@ In the case shown above, no matter what the weight would be, but the result will
 In order to over come this, we use a term called Bias, which will be added to the input with value as 1
 Now the mathematical equation would be as follows: 
 
-```
+
 ![Formula Image](images/formula.PNG)
-```
+
 Which is that the value of “i” can be 0 to n
 and weight of “i” is multiplied by value of “i” (which is x) plus the bias
 Now, once we’ve many perceptron in a network, we will see how we can extend this to a matrix form. 
