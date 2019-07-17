@@ -8,4 +8,4 @@ So the dataset contains 50 samples for each class. And four features (sepal leng
 Based on these four features, a linier discriminant model has been developed to distinguish each species from each other. 
 
 - [Main Page](README.md)
-- [The Coding Approach](code-apprach.md)
+- [The Coding Approach](code-approach.md)
