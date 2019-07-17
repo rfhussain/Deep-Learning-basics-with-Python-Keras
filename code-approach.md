@@ -16,14 +16,15 @@ Note: the small y is a standard variable which points to the classes in our exam
 
 4.	Convert the y into (1 constant structure) which is a format understandable to the Model
 i.e. the structure is [0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2] and after converting it to (1-constant structure, it will look like the following:
-
+```
 [
-
 [1. 0. 0.] #this is for 0, denoting the index position as 0 for class 0
-[0. 1. 0.] #this is for 1, denoting the index position as 1 for class 1
-[0. 0. 1.] #this is for 1, denoting the index position as 2 for class 2
 
+[0. 1. 0.] #this is for 1, denoting the index position as 1 for class 1
+
+[0. 0. 1.] #this is for 1, denoting the index position as 2 for class 2
 ]
+```
 
 5.	Split the data into X_train, X_test, y_train, y_test
 
