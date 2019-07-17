@@ -3,10 +3,9 @@
 This article will provide you basic knowledge and introduction, along with a coding example of Deep Learning using Python and Keras.
 
 ### Table of Contents
-1. [Machine Learning](machine-learning.md)
-2. [Deep Learning](deep-learning.md)
-3. [The Perceptron](perceptron.md)
-4. [Keras](keras.md)
-5. [The Iris Dataset](iris-dataset.md)
-6. [The Coding Approach](code-approach.md)
-7. [Source Code Example](source/iris-keras.py)
+1. [Deep Learning](deep-learning.md)
+2. [The Perceptron](perceptron.md)
+3. [Keras](keras.md)
+4. [The Iris Dataset](iris-dataset.md)
+5. [The Coding Approach](code-approach.md)
+6. [Source Code Example](source/iris-keras.py)
