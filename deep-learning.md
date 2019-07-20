@@ -7,6 +7,6 @@ A driverless car, voice control or hands-free devices such as speakers are all e
 There is a lot of stuff available on Deep Learning on the web if you want to dive deep into it. My focus however, is to provide a basic level of understanding on how to quick start with the Deep Learning and then from there onwards build on the basis developed.
 
 
-- [Main Page](perceptron.md)
+- [Main Page](README.md)
 - [The Perceptron](perceptron.md)
 
