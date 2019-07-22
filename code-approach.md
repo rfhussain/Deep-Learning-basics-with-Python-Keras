@@ -44,7 +44,7 @@ Specify the Activation function and number of neurons
 
 #### 10.	Compile the model
 
-#### 11.	Once the modely is read and compiled, it is time to fit the training data into it, 
+#### 11.	Once the modely is ready and compiled, it is time to fit the training data into it, 
 
 In this case, we’ve the data which we prepared/extracted from the iris dataset earlier in Step#5 
 which is converted X_train data (Step#6) and y_train (Step#5)
